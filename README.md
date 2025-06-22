@@ -17,6 +17,7 @@ python data.py
 python model.py
 ```
 
-**Note**: *This is a prototype*
+**For users**: *First epoch is slow due to data processing & caching. Training from second epoch is much faster*
 
+**For future me**: *This is not a production code*
 
